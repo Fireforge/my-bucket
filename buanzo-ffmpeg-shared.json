@@ -5,9 +5,6 @@
     "license": "GPL-3.0-or-later",
     "url": "https://lame.buanzo.org/ffmpeg-win-2.2.2.zip",
     "hash": "84b0669f71cfb44e557e54ae2c863b89cfa544d1ecf751d7114e2b5955eb0cb2",
-    "bin": [
-        "bin\\ffmpeg.exe"
-    ],
     "checkver": {
         "url": "https://lame.buanzo.org/",
         "regex": "ffmpeg-win-([\\d.]+)\\.zip",
